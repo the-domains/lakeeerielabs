@@ -1,0 +1,28 @@
+name: LakeEerieLabs
+favicon: null
+layout_spectrum: 0.12480318057350814
+typography_spectrum: 0.6391782171558589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6871494562365115
+  lightness: 0.45276701054535806
+  saturation: 0.4529423052445054
+  rhythmicContrast: 0.7334805324207991
+purpose: []
